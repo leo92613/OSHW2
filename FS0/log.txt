@@ -1,0 +1,2 @@
+ERROR: Linkcount in Block 26 is wrong!
+ERROR: filename_to_inode_dict of block 26 is invalid!

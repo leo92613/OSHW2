@@ -1,0 +1,5 @@
+ERROR: Block 26's mtime is WRONG!
+ERROR: The .. directory of block 26 is wrong!
+ERROR: Block 30's mtime is WRONG!
+ERROR: The . directory of block 30 is wrong!
+ERROR: BLOCK  is free block but not in the free block list!
